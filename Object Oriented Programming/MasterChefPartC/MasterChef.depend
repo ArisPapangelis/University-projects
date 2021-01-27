@@ -1,0 +1,269 @@
+# depslib dependency file v1.0
+1523081083 source:c:\users\angry laptop too\desktop\masterchef\main.cpp
+	"Team.h"
+
+1523029915 c:\users\angry laptop too\desktop\masterchef\player.h
+	<iostream>
+	<string>
+	<cstdio>
+	<cstdlib>
+
+1523029643 c:\users\angry laptop too\desktop\masterchef\team.h
+	<iostream>
+	<string>
+	"Player.h"
+
+1523030048 source:c:\users\angry laptop too\desktop\masterchef\team.cpp
+	"Team.h"
+	"Player.h"
+
+1523029901 source:c:\users\angry laptop too\desktop\masterchef\player.cpp
+	"Player.h"
+
+1523081242 source:c:\users\angry laptop too\desktop\masterchef\creativitycompetition.cpp
+
+1492455462 source:c:\users\angry laptop too\desktop\masterchef\immunitycompetition.cpp
+
+1492455468 source:c:\users\angry laptop too\desktop\masterchef\teamcompetition.cpp
+
+1525745473 source:c:\users\frenzycawk\desktop\masterchef\creativitycompetition.cpp
+	"CreativityCompetition.h"
+
+1523030048 source:c:\users\frenzycawk\desktop\masterchef\team.cpp
+	"Team.h"
+	"Player.h"
+
+1523029643 c:\users\frenzycawk\desktop\masterchef\team.h
+	<iostream>
+	<string>
+	"Player.h"
+
+1523029915 c:\users\frenzycawk\desktop\masterchef\player.h
+	<iostream>
+	<string>
+	<cstdio>
+	<cstdlib>
+
+1525745184 source:c:\users\frenzycawk\desktop\masterchef\immunitycompetition.cpp
+	"ImmunityCompetition.h"
+
+1525726278 c:\users\frenzycawk\desktop\masterchef\immunitycompetition.h
+	<iostream>
+	<string>
+	"ImmunityAward.h"
+	"Competition.h"
+	"Team.h"
+
+1492454451 c:\users\frenzycawk\desktop\masterchef\immunityaward.h
+	"Award.h"
+
+1525727437 c:\users\frenzycawk\desktop\masterchef\award.h
+	<string>
+	<iostream>
+
+1525743674 c:\users\frenzycawk\desktop\masterchef\competition.h
+	<iostream>
+	<string>
+	"Team.h"
+
+1525745338 source:c:\users\frenzycawk\desktop\masterchef\main.cpp
+	"Team.h"
+	<random>
+	<time.h>
+	"TeamCompetition.h"
+	"ImmunityCompetition.h"
+	"CreativityCompetition.h"
+	"FoodAward.h"
+	"ImmunityAward.h"
+	"ExcursionAward.h"
+
+1523086633 source:c:\users\frenzycawk\desktop\masterchef\player.cpp
+	"Player.h"
+
+1525745791 source:c:\users\frenzycawk\desktop\masterchef\teamcompetition.cpp
+	"TeamCompetition.h"
+
+1525726310 c:\users\frenzycawk\desktop\masterchef\teamcompetition.h
+	<iostream>
+	<string>
+	"FoodAward.h"
+	"Round.h"
+	"Competition.h"
+	"Team.h"
+
+1523029363 c:\users\frenzycawk\desktop\masterchef\foodaward.h
+	"Award.h"
+	<cstdlib>
+
+1492448202 c:\users\frenzycawk\desktop\masterchef\round.h
+	<iostream>
+	<string>
+
+1525726290 c:\users\frenzycawk\desktop\masterchef\creativitycompetition.h
+	<iostream>
+	<string>
+	"ExcursionAward.h"
+	"Competition.h"
+	"Team.h"
+
+1523086616 c:\users\frenzycawk\desktop\masterchef\excursionaward.h
+	"Award.h"
+	<cstdlib>
+
+1525745473 source:c:\users\frenzycawk\desktop\masterchefpartb\creativitycompetition.cpp
+	"CreativityCompetition.h"
+
+1525726290 c:\users\frenzycawk\desktop\masterchefpartb\creativitycompetition.h
+	<iostream>
+	<string>
+	"ExcursionAward.h"
+	"Competition.h"
+	"Team.h"
+
+1523086616 c:\users\frenzycawk\desktop\masterchefpartb\excursionaward.h
+	"Award.h"
+	<cstdlib>
+
+1525727437 c:\users\frenzycawk\desktop\masterchefpartb\award.h
+	<string>
+	<iostream>
+
+1525743674 c:\users\frenzycawk\desktop\masterchefpartb\competition.h
+	<iostream>
+	<string>
+	"Team.h"
+
+1523029643 c:\users\frenzycawk\desktop\masterchefpartb\team.h
+	<iostream>
+	<string>
+	"Player.h"
+
+1523029915 c:\users\frenzycawk\desktop\masterchefpartb\player.h
+	<iostream>
+	<string>
+	<cstdio>
+	<cstdlib>
+
+1525745184 source:c:\users\frenzycawk\desktop\masterchefpartb\immunitycompetition.cpp
+	"ImmunityCompetition.h"
+
+1525726278 c:\users\frenzycawk\desktop\masterchefpartb\immunitycompetition.h
+	<iostream>
+	<string>
+	"ImmunityAward.h"
+	"Competition.h"
+	"Team.h"
+
+1492454451 c:\users\frenzycawk\desktop\masterchefpartb\immunityaward.h
+	"Award.h"
+
+1523086633 source:c:\users\frenzycawk\desktop\masterchefpartb\player.cpp
+	"Player.h"
+
+1523030048 source:c:\users\frenzycawk\desktop\masterchefpartb\team.cpp
+	"Team.h"
+	"Player.h"
+
+1525745791 source:c:\users\frenzycawk\desktop\masterchefpartb\teamcompetition.cpp
+	"TeamCompetition.h"
+
+1525726310 c:\users\frenzycawk\desktop\masterchefpartb\teamcompetition.h
+	<iostream>
+	<string>
+	"FoodAward.h"
+	"Round.h"
+	"Competition.h"
+	"Team.h"
+
+1523029363 c:\users\frenzycawk\desktop\masterchefpartb\foodaward.h
+	"Award.h"
+	<cstdlib>
+
+1492448202 c:\users\frenzycawk\desktop\masterchefpartb\round.h
+	<iostream>
+	<string>
+
+1526181834 source:c:\users\frenzycawk\documents\github\oop-hmmy\masterchefpartc\creativitycompetition.cpp
+	"CreativityCompetition.h"
+
+1526180691 c:\users\frenzycawk\documents\github\oop-hmmy\masterchefpartc\creativitycompetition.h
+	<iostream>
+	<string>
+	"ExcursionAward.h"
+	"Competition.h"
+	"Team.h"
+
+1523086616 c:\users\frenzycawk\documents\github\oop-hmmy\masterchefpartc\excursionaward.h
+	"Award.h"
+	<cstdlib>
+
+1525727437 c:\users\frenzycawk\documents\github\oop-hmmy\masterchefpartc\award.h
+	<string>
+	<iostream>
+
+1526091075 c:\users\frenzycawk\documents\github\oop-hmmy\masterchefpartc\competition.h
+	<iostream>
+	<string>
+	"Team.h"
+
+1523029643 c:\users\frenzycawk\documents\github\oop-hmmy\masterchefpartc\team.h
+	<iostream>
+	<string>
+	"Player.h"
+
+1523029915 c:\users\frenzycawk\documents\github\oop-hmmy\masterchefpartc\player.h
+	<iostream>
+	<string>
+	<cstdio>
+	<cstdlib>
+
+1526179423 source:c:\users\frenzycawk\documents\github\oop-hmmy\masterchefpartc\immunitycompetition.cpp
+	"ImmunityCompetition.h"
+
+1526180627 c:\users\frenzycawk\documents\github\oop-hmmy\masterchefpartc\immunitycompetition.h
+	<iostream>
+	<string>
+	"ImmunityAward.h"
+	"Competition.h"
+	"Team.h"
+
+1492454451 c:\users\frenzycawk\documents\github\oop-hmmy\masterchefpartc\immunityaward.h
+	"Award.h"
+
+1523086633 source:c:\users\frenzycawk\documents\github\oop-hmmy\masterchefpartc\player.cpp
+	"Player.h"
+
+1523030048 source:c:\users\frenzycawk\documents\github\oop-hmmy\masterchefpartc\team.cpp
+	"Team.h"
+	"Player.h"
+
+1526178968 source:c:\users\frenzycawk\documents\github\oop-hmmy\masterchefpartc\teamcompetition.cpp
+	"TeamCompetition.h"
+
+1526179069 c:\users\frenzycawk\documents\github\oop-hmmy\masterchefpartc\teamcompetition.h
+	<iostream>
+	<string>
+	"FoodAward.h"
+	"Round.h"
+	"Competition.h"
+	"Team.h"
+
+1523029363 c:\users\frenzycawk\documents\github\oop-hmmy\masterchefpartc\foodaward.h
+	"Award.h"
+	<cstdlib>
+
+1492448202 c:\users\frenzycawk\documents\github\oop-hmmy\masterchefpartc\round.h
+	<iostream>
+	<string>
+
+1526091075 source:c:\users\frenzycawk\documents\github\oop-hmmy\masterchefpartc\main.cpp
+	"Team.h"
+	<random>
+	<time.h>
+	"TeamCompetition.h"
+	"ImmunityCompetition.h"
+	"CreativityCompetition.h"
+	"FoodAward.h"
+	"ImmunityAward.h"
+	"ExcursionAward.h"
+
