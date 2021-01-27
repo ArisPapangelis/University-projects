@@ -1,3 +1,3 @@
-# Structured Programming ECE
+# Structured Programming
 
 Random programming snippets.
