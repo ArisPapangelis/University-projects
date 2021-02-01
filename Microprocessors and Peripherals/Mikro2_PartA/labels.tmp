@@ -1,0 +1,32 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.42</VERSION>
+ <DEVICE>ATmega16</DEVICE>
+ <WORKING_DIR>C:\Users\FrenzyCawk\Desktop\Mikro2_PartA</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\FrenzyCawk\Desktop\Mikro2_PartA\Mikro2_PartA.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes\m16def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\FrenzyCawk\Desktop\Mikro2_PartA\Mikro2_PartA.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>C:\Users\FrenzyCawk\Desktop\Mikro2_PartA\Mikro2_PartA.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>C:\Users\FrenzyCawk\Desktop\Mikro2_PartA\Mikro2_PartA.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <RESET><FILE>C:\Users\FrenzyCawk\Desktop\Mikro2_PartA\Mikro2_PartA.asm</FILE><LINE>31</LINE></RESET>
+  <EXT_INT0_ISR><FILE>C:\Users\FrenzyCawk\Desktop\Mikro2_PartA\Mikro2_PartA.asm</FILE><LINE>184</LINE></EXT_INT0_ISR>
+  <TIMER_COMPA_ISR><FILE>C:\Users\FrenzyCawk\Desktop\Mikro2_PartA\Mikro2_PartA.asm</FILE><LINE>200</LINE></TIMER_COMPA_ISR>
+  <FIRSTWAY><FILE>C:\Users\FrenzyCawk\Desktop\Mikro2_PartA\Mikro2_PartA.asm</FILE><LINE>86</LINE></FIRSTWAY>
+  <SWITCH7><FILE>C:\Users\FrenzyCawk\Desktop\Mikro2_PartA\Mikro2_PartA.asm</FILE><LINE>219</LINE></SWITCH7>
+  <SECONDWAY><FILE>C:\Users\FrenzyCawk\Desktop\Mikro2_PartA\Mikro2_PartA.asm</FILE><LINE>126</LINE></SECONDWAY>
+  <CONVERSION><FILE>C:\Users\FrenzyCawk\Desktop\Mikro2_PartA\Mikro2_PartA.asm</FILE><LINE>161</LINE></CONVERSION>
+  <RESTART><FILE>C:\Users\FrenzyCawk\Desktop\Mikro2_PartA\Mikro2_PartA.asm</FILE><LINE>177</LINE></RESTART>
+  <DEBOUNCE><FILE>C:\Users\FrenzyCawk\Desktop\Mikro2_PartA\Mikro2_PartA.asm</FILE><LINE>225</LINE></DEBOUNCE>
+ </LABELS>
+</ASSEMBLER_INFO>

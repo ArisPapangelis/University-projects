@@ -1,0 +1,35 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.42</VERSION>
+ <DEVICE>ATmega16</DEVICE>
+ <WORKING_DIR>C:\Users\FrenzyCawk\Desktop\Mikro2_PartB1</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\FrenzyCawk\Desktop\Mikro2_PartB1\Mikro2_PartB1.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes\m16def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\FrenzyCawk\Desktop\Mikro2_PartB1\Mikro2_PartB1.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>C:\Users\FrenzyCawk\Desktop\Mikro2_PartB1\Mikro2_PartB1.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>C:\Users\FrenzyCawk\Desktop\Mikro2_PartB1\Mikro2_PartB1.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <RESET><FILE>C:\Users\FrenzyCawk\Desktop\Mikro2_PartB1\Mikro2_PartB1.asm</FILE><LINE>24</LINE></RESET>
+  <EXT_INT0_ISR><FILE>C:\Users\FrenzyCawk\Desktop\Mikro2_PartB1\Mikro2_PartB1.asm</FILE><LINE>172</LINE></EXT_INT0_ISR>
+  <TIMER_COMPA_ISR><FILE>C:\Users\FrenzyCawk\Desktop\Mikro2_PartB1\Mikro2_PartB1.asm</FILE><LINE>188</LINE></TIMER_COMPA_ISR>
+  <REPEAT><FILE>C:\Users\FrenzyCawk\Desktop\Mikro2_PartB1\Mikro2_PartB1.asm</FILE><LINE>51</LINE></REPEAT>
+  <FIRSTWAY><FILE>C:\Users\FrenzyCawk\Desktop\Mikro2_PartB1\Mikro2_PartB1.asm</FILE><LINE>87</LINE></FIRSTWAY>
+  <SWITCH7><FILE>C:\Users\FrenzyCawk\Desktop\Mikro2_PartB1\Mikro2_PartB1.asm</FILE><LINE>207</LINE></SWITCH7>
+  <SECONDWAY><FILE>C:\Users\FrenzyCawk\Desktop\Mikro2_PartB1\Mikro2_PartB1.asm</FILE><LINE>127</LINE></SECONDWAY>
+  <RESTART><FILE>C:\Users\FrenzyCawk\Desktop\Mikro2_PartB1\Mikro2_PartB1.asm</FILE><LINE>152</LINE></RESTART>
+  <INCREASE_DC><FILE>C:\Users\FrenzyCawk\Desktop\Mikro2_PartB1\Mikro2_PartB1.asm</FILE><LINE>159</LINE></INCREASE_DC>
+  <DECREASE_DC><FILE>C:\Users\FrenzyCawk\Desktop\Mikro2_PartB1\Mikro2_PartB1.asm</FILE><LINE>163</LINE></DECREASE_DC>
+  <END><FILE>C:\Users\FrenzyCawk\Desktop\Mikro2_PartB1\Mikro2_PartB1.asm</FILE><LINE>166</LINE></END>
+  <DEBOUNCE><FILE>C:\Users\FrenzyCawk\Desktop\Mikro2_PartB1\Mikro2_PartB1.asm</FILE><LINE>213</LINE></DEBOUNCE>
+ </LABELS>
+</ASSEMBLER_INFO>
